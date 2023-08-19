@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: wtfalimentore;
+  src: url(../public/fonts/wtfalimentoregular-goryy.ttf);
+}
+
+:root {
+  color: black;
+  font-family: wtfalimentore;
+}
